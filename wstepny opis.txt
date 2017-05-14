@@ -1,0 +1,3 @@
+Aplikacja jak¹ piszê bêdzie wykorzystywa³a WPF.
+
+Bêdzie to program bêd¹cy czêœci¹ mojej in¿ynierki. Wygl¹da to tak, mikrokontroler(STM32 finalnie, na razie arduino) bêdzie wysy³a³ sygna³ po porcie szeregowym - nie wiem jeszcze w jakim formacie. Na razie ma to imitowaæ pomiary wykonane za pomoc¹ mikrokontrolera, finalnie bêdzie mierzyæ. Program bêdzie zczytywa³ dane, zapisywa³ do pliku, bêdzie wykorzystywa³ po³¹czenie z portem szeregowym, oraz bibliotekê do wykreœlania wykresów(najprawdopodobniej t¹ http://mitov.com/products/plotlab#overview). Program powinien pozwalaæ odczytywaæ i analizowaæ na wykresie wczeœniej zapisane charakterystyki.
